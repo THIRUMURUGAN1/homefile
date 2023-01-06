@@ -6,7 +6,7 @@
 				background-color: rgb(0, 0, 175) font-family: Arial,;
 				}
 			.item{
-				width:175px;
+				width:300px;
 				text-align:center;
 				display:block;
 				background-color: transparent;
@@ -16,9 +16,7 @@
 				float:right;
 			}
 
-			#index-gallery{
-				width:465px;
-			}
+			
 			<center> Welcome </center>
 		</style>	
 	</head>
