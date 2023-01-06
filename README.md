@@ -24,7 +24,7 @@
 	</head>
 	<body>
 		<h1><center> KI-Pay </center></h1>
-			<center>
+			
 				<div id="index">
 					<div class="item">
 				
