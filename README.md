@@ -6,7 +6,7 @@
 				background-color: rgb(0, 0, 175) font-family: Arial,;
 				}
 			.item{
-				width:300px;
+				width:30px;
 				text-align:center;
 				display:block;
 				background-color: transparent;
