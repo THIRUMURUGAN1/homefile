@@ -11,7 +11,7 @@
 				display:block;
 				background-color: transparent;
 				border: 1px solid transparent;
-				margin-right: 90px;
+				margin-right: 60px;
 				margin-bottom: 1px;
 				float: left;
 				
@@ -28,27 +28,27 @@
 					<div class="item">
 				
 						<a href="C:\Users\Dell\Documents\Integration\check balance.html">
-						<img src="checkbalanceicon.png" width="80" height="90" hspace="20"></a>
+						<img src="checkbalanceicon.png" width="70" height="90" hspace="20"></a>
 						 <p> Check bank balance </p>
 					</div>
 					<div class="item">
 						<a href="C:\Users\Dell\Documents\Integration\mobile.html">
-						<img src="mobile.png" width="80" height="90" hspace="20"></a>
+						<img src="mobile.png" width="70" height="90" hspace="20"></a>
 						 <p> Mobile Recharge</p>
 					</div>
 					<div class="item">
 						<a href="C:\Users\Dell\Documents\Integration\scan qr code.html">
-						<img src="scanqrcode.png" width="80" height="90" hspace="20"></a>
+						<img src="scanqrcode.png" width="70" height="90" hspace="20"></a>
 						 <p> Scan qr code </p>
 					</div>
 					<div class="item">
 						<a href="C:\Users\Dell\Documents\Integration\bills.html">
-						<img src="bills.png" width="80" height="90" hspace="20"></a>
+						<img src="bills.png" width="70" height="90" hspace="20"></a>
 						 <p> Bills Payment</p>
 					</div>	 
 					<div class="item">	 
 						<a href="https://thirumurugan1.github.io/paycontact/">
-						<img src="paycantaact.jpeg" width="80" height="90" hspace="20"></a>
+						<img src="paycantaact.jpeg" width="70" height="90" hspace="20"></a>
 						 <p> Pay contact </p>
 					<div>
 				</div>
