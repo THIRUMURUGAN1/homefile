@@ -49,7 +49,7 @@
 					</div>	 
 					<div class="item">	 
 						<a href="https://thirumurugan1.github.io/paycontact/">
-						<img src="paycantaact.png" width="80" height="90" hspace="20"></a>
+						<img src="paycantaact.jpeg" width="80" height="90" hspace="20"></a>
 						 <p> Pay contact </p>
 					<div>
 				</div>
