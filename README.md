@@ -6,14 +6,14 @@
 				background-color: rgb(0, 0, 175) font-family: Arial,;
 				}
 			.item{
-				width:30px;
+				width:175x;
 				text-align:center;
 				display:block;
 				background-color: transparent;
 				border: 1px solid transparent;
 				margin-right: 75px;
 				margin-bottom: 1px;
-				float:right;
+				
 			}
 
 			
