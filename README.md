@@ -27,7 +27,7 @@
 				<div id="index">
 					<div class="item">
 				
-						<a href="C:\Users\Dell\Documents\Integration\check balance.html">
+						<a href="https://thirumurugan1.github.io/balance/">
 						<img src="checkbalanceicon.png" width="70" height="90" hspace="20"></a>
 						 <p> Check bank balance </p>
 					</div>
