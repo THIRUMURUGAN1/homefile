@@ -37,7 +37,7 @@
 						 <p> Mobile Recharge</p>
 					</div>
 					<div class="item">
-						<a href="C:\Users\Dell\Documents\Integration\scan qr code.html">
+						<a href="https://thirumurugan1.github.io/qrcode/">
 						<img src="scanqrcode.png" width="70" height="90" hspace="20"></a>
 						 <p> Scan qr code </p>
 					</div>
