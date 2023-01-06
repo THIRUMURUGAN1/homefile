@@ -13,7 +13,7 @@
 				border: 1px solid transparent;
 				margin-right: 75px;
 				margin-bottom: 1px;
-				float: center;
+				float: left;
 				
 			}
 
