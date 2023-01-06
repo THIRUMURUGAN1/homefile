@@ -11,7 +11,7 @@
 				display:block;
 				background-color: transparent;
 				border: 1px solid transparent;
-				margin-right: 75px;
+				margin-right: 90px;
 				margin-bottom: 1px;
 				float: left;
 				
