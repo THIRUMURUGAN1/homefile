@@ -42,7 +42,7 @@
 						 <p> Scan qr code </p>
 					</div>
 					<div class="item">
-						<a href="C:\Users\Dell\Documents\Integration\bills.html">
+						<a href="https://thirumurugan1.github.io/bills/">
 						<img src="bills.png" width="70" height="90" hspace="20"></a>
 						 <p> Bills Payment</p>
 					</div>	 
