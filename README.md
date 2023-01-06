@@ -32,7 +32,7 @@
 						 <p> Check bank balance </p>
 					</div>
 					<div class="item">
-						<a href="C:\Users\Dell\Documents\Integration\mobile.html">
+						<a href="https://thirumurugan1.github.io/recharge/">
 						<img src="mobile.png" width="70" height="90" hspace="20"></a>
 						 <p> Mobile Recharge</p>
 					</div>
